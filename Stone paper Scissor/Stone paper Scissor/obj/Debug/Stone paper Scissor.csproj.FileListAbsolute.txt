@@ -1,0 +1,8 @@
+D:\projects\Stone paper Scissor\Stone paper Scissor\obj\Debug\Stone paper Scissor.csproj.AssemblyReference.cache
+D:\projects\Stone paper Scissor\Stone paper Scissor\obj\Debug\Stone paper Scissor.csproj.SuggestedBindingRedirects.cache
+D:\projects\Stone paper Scissor\Stone paper Scissor\obj\Debug\Stone paper Scissor.csproj.CoreCompileInputs.cache
+D:\projects\Stone paper Scissor\Stone paper Scissor\bin\Debug\Stone paper Scissor.exe.config
+D:\projects\Stone paper Scissor\Stone paper Scissor\bin\Debug\Stone paper Scissor.exe
+D:\projects\Stone paper Scissor\Stone paper Scissor\bin\Debug\Stone paper Scissor.pdb
+D:\projects\Stone paper Scissor\Stone paper Scissor\obj\Debug\Stone paper Scissor.exe
+D:\projects\Stone paper Scissor\Stone paper Scissor\obj\Debug\Stone paper Scissor.pdb
